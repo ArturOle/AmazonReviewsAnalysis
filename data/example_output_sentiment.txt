@@ -1,0 +1,71 @@
+productID: B000C9VFEO
+Review text: VERY POOR CLIP, NO SPUR TO RETAIN CASE ON BELT. PLASTIC CLIP LOOSES CLAMPING ABILITY FAST. YOU WILL LOOSE YOUR PHONE! GET A CASE THAT HAS BELT LOOPS.
+Sentiment of the review comment: (-0.7749, 'Negative')
+Review summary: WANT TO LOOSE YOUR PHONE?
+Sentiment of the summary: (-0.25, 'Negative')
+Score: 1.0
+Helpfulness: 0/0
+
+productID: B000C9VFEO
+Review text: I purchased it for W580i. It fits tight and looks good. It is good value for the money. I wish it had proper cutouts for charge cable connection.Overall, good case for Ericsson.
+Sentiment of the review comment: (0.9153, 'Positive')
+Review summary: Good product
+Sentiment of the summary: (0.4404, 'Positive')
+Score: 4.0
+Helpfulness: 0/1
+
+productID: B000M8WA2G
+Review text: Seems pretty simple with CD included. Newer software is online from Nokia--but I could not get connection with Nokia 6820 and gave up. At least the cable was cheap enough. No idea if I failed or cable was incorrect.
+Sentiment of the review comment: (-0.3182, 'Negative')
+Review summary: Did not work for me
+Sentiment of the summary: (0.0, 'Neutral')
+Score: 2.0
+Helpfulness: 0/0
+
+productID: B000M8WA2G
+Review text: Really fast delivery. And a great price, I may return it because my computer runs withVista and this particular cord seems to be uncompatible. But, would definitely order from these guys again.
+Sentiment of the review comment: (0.7269, 'Positive')
+Review summary: great service
+Sentiment of the summary: (0.6249, 'Positive')
+Score: 5.0
+Helpfulness: 0/0
+
+productID: B000M8WA2G
+Review text: Item was shipped promptly but would not work. Called for assistance and was told it was my drivers, the cable can't be bad. The drivers they supplied didn't work and I downloaded many different drivers and none would work.
+Sentiment of the review comment: (0.5824, 'Positive')
+Review summary: Doesn't Work
+Sentiment of the summary: (0.0, 'Neutral')
+Score: 1.0
+Helpfulness: 1/2
+
+productID: B000M8WA2G
+Review text: The cable simply DOES NOT WORK. The PC does not detect the phone. I wrote to the seller telling them the cable DOES NOT WORK. They wrote back requesting the SKU number on the cable package. I emailed the SKU number to them. Then they wanted my cell phone model number. I emailed them the info. Then they sent me an email telling me "the cable is fully compatible" with my phone, and that I should make sure I have the latest software and drivers. I had already downloaded the latest Nokia PC Suite (which contains the drivers), so I emailed back telling them so. Then they wrote back telling me to make sure the PC was detecting the cable. I wrote back to them explaining that, yes, the PC does detect the USB cable, but not the phone. At that point they offered me a free replacement. I wrote back stating that I was willing to try a replacement cable, but I was not willing to pay for the shipping. They sent me a new cable. The replacement cable DOES NOT WORK. Basically, this company is selling a product that DOES NOT WORK. Considering the number of reviews here stating that the cable does not work, and considering that the company has very *probably* received numerous emails from other customers telling them that the cable DOES NOT WORK, I *suspect* the company knows they are selling a defective product, but I do not know that to be a fact. My advice to you is to not purchase this seller's cable. Save your money, even if it is only a few dollars. (Incidentally, if I had read the previous reviews prior to purchasing a cable, I would not have purchased this one. Unfortunately, I did not see the reviews because I purchased the cable from [...].)Update
+Sentiment of the review comment: (0.8633, 'Positive')
+Review summary: I wish I had read the reviews before I bought this cable
+Sentiment of the summary: (0.4019, 'Positive')
+Score: 1.0
+Helpfulness: 0/1
+
+productID: B000M8WA2G
+Review text: Yeah it does what you want, but Nokia really cut some corners with the bundled software. What a headache, but still cheaper than getting screwed by AT&Ts file transfer rates.
+Sentiment of the review comment: (-0.7677, 'Negative')
+Review summary: cable works, but nokia software sucks
+Sentiment of the summary: (-0.5023, 'Negative')
+Score: 5.0
+Helpfulness: 0/2
+
+productID: B000M8WA2G
+Review text: neat cable, good connectors, but haven't established communications between PC and cellphone with cable yet.
+Sentiment of the review comment: (0.4497, 'Positive')
+Review summary: not yet
+Sentiment of the summary: (0.0, 'Neutral')
+Score: 4.0
+Helpfulness: 1/7
+
+productID: B000M8WA2G
+Review text: Connects my old Nokia 6820 to my laptop. Just be aware that it emulates a COM port thru USB. Make sure you have the COM port set correctly in the Nokia PC Suite to match the virtual COM port assigned by the driver. This you can check in the Device Settings in the Control Panel. I need to set the COM port to COM16 every time I plug in the cable.In short, the product works - as long as you are willing to put in a bit of effort. For the price, good value. And it saves me from having to turn on the bluetooth - which is slower and drains the battery faster.
+Sentiment of the review comment: (0.765, 'Positive')
+Review summary: Works for Nokia 6820 - with a bit of effort
+Sentiment of the summary: (0.0, 'Neutral')
+Score: 4.0
+Helpfulness: 5/5
